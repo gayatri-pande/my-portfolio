@@ -3,13 +3,13 @@ import './App.css';
 
 function App() {
   return (
-   <>
-   <div>
-    <container>
-      
-    </container>
-   </div>
-   </>
+    <>
+    <div className='App'>
+      <header className='App-header'>
+    <p>Hi!!,Welcome to Gayatri's Portfolio</p>
+    </header>
+    </div>
+    </>
   );
 }
 
