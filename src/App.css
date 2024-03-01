@@ -38,3 +38,20 @@
     transform: rotate(360deg);
   }
 }
+
+.bg{
+  background-color: rgb(5, 13, 34);
+  border-bottom: 4px wheat;
+}
+
+.navbar{
+
+}
+
+.name{
+  text-align: center;
+  text-shadow: #282c34 2px;
+  color: rgb(226, 40, 121);
+  text-size-adjust: 100px;
+  
+}
